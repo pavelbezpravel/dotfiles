@@ -26,3 +26,4 @@ zstyle ':completion:*' group-name ''
 zstyle ':completion:*' file-sort name
 zstyle ':completion:*' use-cache on
 zstyle ':completion:*' cache-path "$ZSH_CACHE_DIR"
+zstyle ':completion:*' special-dirs false
